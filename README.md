@@ -1,3 +1,2 @@
 # remote-demo
-# Something new
 
